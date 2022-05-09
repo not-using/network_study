@@ -21,8 +21,7 @@ struct PacketData
 }
 ```
 - DataSize : 헤더를 포함한 데이터 전체 크기
-- PacketID : 패킷 식별자
-- Type
+- PacketID : 패킷 식별
     - 21 : 2요소 연산요청
     - 22 : 3요소 연산요청
     - 31 : 연산결과값 31

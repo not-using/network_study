@@ -20,3 +20,4 @@ https://www.hanbit.co.kr/store/books/look.php?p_code=B1196865370
 ### git repository 활용
 - 학습 내용에 대한 공유
 - 멘토님께 과제 제출 및 코드리뷰용
+- 기타 학습 내용 기록 및 복습용
